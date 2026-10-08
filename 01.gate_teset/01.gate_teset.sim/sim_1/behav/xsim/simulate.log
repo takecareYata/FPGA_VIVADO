@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 80 ns : File "D:/project/fpga/ai2/01.gate_teset/01.gate_teset.srcs/sim_1/new/tb_gates.v" Line 72

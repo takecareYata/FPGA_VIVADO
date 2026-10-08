@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct  7 16:55:52 2026
+# Process ID: 7504
+# Current directory: D:/project/fpga/ai2/03_1.adder_7bit/03_1.adder_7bit.runs/synth_1
+# Command line: vivado.exe -log full_adder_7bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source full_adder_7bit.tcl
+# Log file: D:/project/fpga/ai2/03_1.adder_7bit/03_1.adder_7bit.runs/synth_1/full_adder_7bit.vds
+# Journal file: D:/project/fpga/ai2/03_1.adder_7bit/03_1.adder_7bit.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder_7bit.tcl -notrace
