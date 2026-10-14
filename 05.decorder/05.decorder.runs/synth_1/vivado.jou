@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct 14 16:25:18 2026
+# Process ID: 17536
+# Current directory: D:/project/fpga/ai2/05.decorder/05.decorder.runs/synth_1
+# Command line: vivado.exe -log priority_encoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source priority_encoder.tcl
+# Log file: D:/project/fpga/ai2/05.decorder/05.decorder.runs/synth_1/priority_encoder.vds
+# Journal file: D:/project/fpga/ai2/05.decorder/05.decorder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source priority_encoder.tcl -notrace

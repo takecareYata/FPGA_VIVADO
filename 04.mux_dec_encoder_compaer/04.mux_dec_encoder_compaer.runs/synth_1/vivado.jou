@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct 14 13:38:43 2026
+# Process ID: 19944
+# Current directory: D:/project/fpga/ai2/04.mux_dec_encoder_compaer/04.mux_dec_encoder_compaer.runs/synth_1
+# Command line: vivado.exe -log mux4bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux4bit.tcl
+# Log file: D:/project/fpga/ai2/04.mux_dec_encoder_compaer/04.mux_dec_encoder_compaer.runs/synth_1/mux4bit.vds
+# Journal file: D:/project/fpga/ai2/04.mux_dec_encoder_compaer/04.mux_dec_encoder_compaer.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mux4bit.tcl -notrace

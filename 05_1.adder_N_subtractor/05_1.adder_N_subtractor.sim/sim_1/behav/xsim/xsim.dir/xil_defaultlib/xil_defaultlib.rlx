@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/project/fpga/ai2/05_1.adder_N_subtractor/05_1.adder_N_subtractor.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/project/fpga/ai2/05_1.adder_N_subtractor/05_1.adder_N_subtractor.srcs/sim_1/new/tb_add_sub_4bit.v,1791963973,verilog,,,,tb_add_sub_4bit,,,,,,,,
+D:/project/fpga/ai2/05_1.adder_N_subtractor/05_1.adder_N_subtractor.srcs/sources_1/new/adder_N_subtractor.v,1791963813,verilog,,D:/project/fpga/ai2/05_1.adder_N_subtractor/05_1.adder_N_subtractor.srcs/sim_1/new/tb_add_sub_4bit.v,,add_sub_4bit,,,,,,,,

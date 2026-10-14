@@ -1,0 +1,10 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+TIME = 0 | sel = 0 | a = 4'b0000 | b = 4'b0000 | out = 4'b0000
+TIME = 10000 | sel = 0 | a = 4'b1010 | b = 4'b0101 | out = 4'b0101
+TIME = 20000 | sel = 1 | a = 4'b1100 | b = 4'b0011 | out = 4'b1100
+TIME = 30000 | sel = 0 | a = 4'b1111 | b = 4'b1001 | out = 4'b1001
+TIME = 40000 | sel = 1 | a = 4'b0110 | b = 4'b1110 | out = 4'b0110
+TIME = 50000 | sel = 0 | a = 4'b1111 | b = 4'b1111 | out = 4'b1111
+TIME = 60000 | sel = 1 | a = 4'b1111 | b = 4'b1111 | out = 4'b1111
+$finish called at time : 70 ns : File "D:/project/fpga/ai2/04.mux_dec_encoder_compaer/04.mux_dec_encoder_compaer.srcs/sim_1/new/tb_mux4bit.v" Line 64
