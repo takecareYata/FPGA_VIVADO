@@ -1,0 +1,13 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+[20000] === Moore FSM 101 Test Start ===
+[36000] PASSED: x=1, y=0
+[46000] PASSED: x=0, y=0
+[56000] PASSED: x=1, y=1
+[66000] PASSED: x=0, y=0
+[76000] PASSED: x=1, y=1
+[86000] PASSED: x=1, y=0
+[96000] PASSED: x=0, y=0
+[106000] PASSED: x=0, y=0
+[106000] === ALL TESTS PASSED ===
+$finish called at time : 206 ns : File "D:/project/fpga/ai2/test_07/test_07.srcs/sim_1/new/tb_moore_fsm_101.v" Line 89

@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+[100000] start noise sig generartion ...........
+[4420000] SIM TEST PASSED
+[5420000] ---- SIM TEST FINISHED ----
+$finish called at time : 5420 ns : File "D:/project/fpga/ai2/06.dff_btn_debounce/06.dff_btn_debounce.srcs/sim_1/new/tb_btn_debounce.v" Line 89
